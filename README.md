@@ -28,3 +28,17 @@ Check out the live project here: [Your Link Here - e.g., Render/Vercel URL]
    ```bash
    git clone [https://github.com/Sinhaady/WanderLust.git](https://github.com/Sinhaady/WanderLust.git)
    cd WanderLust
+2. **Install dependencies:**
+    ```bash
+    npm install
+3. **Environment Variables:**
+     ```bash
+    Create a .env file in the root directory and add your credentials:
+4. **Run the application:**
+     ```bash
+    node app.js
+    # or if you have nodemon
+    nodemon app.js
+
+🤝 Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request if you have ideas for improvements.
