@@ -42,3 +42,5 @@ Check out the live project here: [Your Link Here - e.g., Render/Vercel URL]
 
 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you have ideas for improvements.
+
+Developed with ❤️ by [Aditya Sinha](https://github.com/Sinhaady)
